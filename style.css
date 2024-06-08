@@ -1,0 +1,237 @@
+
+/* BODY SECTION */
+
+body {
+    min-block-size: 100vb;
+    background-image: linear-gradient(rgb(255, 228, 230), rgb(204, 251, 241));
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+body h2 {
+    color:rgb(255, 255, 255);
+}
+
+H2 { 
+    text-align: center;
+    border-radius: 15px 50px;
+    background: rgb(68, 195, 191);
+    padding: 20px; 
+    width: 180px;
+    height: 100px; 
+}
+
+.introduction {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: rgb(15, 16, 16);
+    margin-top: 2rem;
+    flex-wrap: wrap;
+}
+
+/*HEADER ELEMENTS*/
+
+.header {
+    position: static;
+    display: flex;
+    height: auto;
+    background-color: rgb(68, 195, 191);
+    padding: 1rem;
+    padding-block: 5rem;
+    margin: 0.5rem;
+    border-radius: 1rem;
+    align-items: center;
+    background-size: auto;
+    column-gap: 0.5px;
+}
+
+.header_ul {
+ 
+    list-style-type: none;
+    display: flex;
+    padding: 0.5px;
+    margin: 0;
+    gap: 3rem;
+    color:rgb(10, 9, 9);
+    flex-wrap: wrap;
+
+}
+.header_logo {
+    font-family:sans-serif;
+    padding-top: 0px;
+    padding-left:0.5rem;
+    padding-right: 1.5rem;
+    color:rgb(255, 255, 255);
+    margin:0rem;
+}
+
+/*NAV BAR ELEMENTS*/
+
+nav a{
+    color:rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+    transition: color 0.1s ease-in-out;
+    background: rgba(49, 146, 143, 0.75);
+    padding-inline: 1rem;
+    padding-block: 0.5rem;
+    border-radius: 0.5rem;
+    display: block;
+}
+
+/* ERROR: 
+nav a:hoover {
+    color:rgba(255, 255, 255, 0.90);
+}
+*/
+
+/*FIELDSET & FLEX*/
+
+fieldset {
+    border-style:dashed;
+    flex-wrap: wrap;
+}
+
+.flex{
+width: 50%;
+}
+
+.flex-1 {
+flex-direction: row;
+display: flex;
+}
+
+/*BABY TEETH SECTION ,  WEANING & WEANING TABLE */
+
+.baby-teeth {
+    flex-direction: row;
+    display: flex;
+    }
+
+table, th, td {
+    border:0.5px solid black;
+    
+  }
+ 
+.weaning{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem;
+    flex-wrap: wrap;
+}
+
+.weaning-table{
+    padding-top: 10rem;
+}
+.weaning-table table, th, td{
+    border-collapse: collapse; border-radius: 1rem;
+    padding: 0.5rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.teething{
+    height: 250px;
+}
+/*IMG CLASS*/
+
+
+.img1 {
+    display:flex;
+    border-radius: 3rem;
+    margin: 10px;
+    width: 18rem;
+    height: auto;
+    float: none;
+}
+
+
+.img2 {
+display: flex;
+border-radius: 3rem;
+width: 100%;
+height: 20rem;
+}
+
+.img3 {
+    display: flex;
+    width: 350px;
+    border-radius: 5rem;
+    flex-wrap: wrap;
+
+
+}
+
+.img4{
+    display: flex;
+    border-radius: 5rem;
+    text-wrap:wrap;
+    width: 50%;
+
+
+}
+
+/*FOOTER*/ 
+
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(255, 228, 230);
+    text-align: center;
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+.links {
+    color: black;
+    text-decoration: none;
+    font-size: 1rem;
+    margin: 3REM;
+    justify-content: space-between;
+
+}
+
+/*FEEDBACK & THANK YOU PAGE*/
+
+form{
+    align-items: center;
+}
+.thank-you{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10rem;
+    margin: 0;
+    
+}
+
+.feedback{
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 662px)
+{
+    /*HEADER*/
+
+
+    .header {
+        flex-direction: column;
+    }
+    .header_ul {
+        flex-wrap: wrap;
+    }
+    .header_logo {
+    padding-bottom: 50px;
+    }
+
+    /*FROM ONNE MONTH TO TWO*/
+    
+    .img4{
+        width: 300px;
+        height: 300px;
+    }
+
+
+}
