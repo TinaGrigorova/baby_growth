@@ -47,9 +47,13 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 ## FRAMEWORKS, PROGRAMS AND LIBRARYS USED 
 
 ## TESTING 
+
 ### RESULTS
+
 ### MANUAL TESTING
+
 ### LIGHTOHOUSE REPORTS 
+
 ### KNOWN BUGS
 
 ## DEPLOYMENT
