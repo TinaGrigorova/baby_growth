@@ -7,10 +7,24 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 /Link to page/
 
-## TABLE OF CONTENT
-
 ## USER EXPERIANCE (UX)
+### USER STORIES
 
+ * First-time visitor goals
+    * Understand the main purpose of the site and acquire more knowledge about the topic.
+    * Easily navigate throughout the site.
+    * Find the Feedback form and submit.
+      
+ * Returning visitor goals
+    * Find out information about the  .
+    * Locate the feedback form at the end of the page.
+    * Review stories and more information on social media.
+
+ * Frequent user goals
+    * Request more information or examples to be added via feedback form. 
+    * Review the page for new information.
+      
+   
 ## FEATURES
 ### NAVIGATION BAR
 ### HEADING
