@@ -143,6 +143,18 @@ table, th, td {
 flex-direction: row;
 }
 
+.feeding_table {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    padding: 1rem;
+}
+
+div#weaning {
+    justify-content: center;
+    width: 100%;
+}
+
 /*IMG CLASS*/
 
 
