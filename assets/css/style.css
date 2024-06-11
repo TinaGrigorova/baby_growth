@@ -3,7 +3,7 @@
 
 body {
     min-block-size: 100vb;
-    background-image: linear-gradient(rgb(255, 228, 230), rgb(204, 251, 241));
+    background-image: linear-gradient(rgb(255, 228, 230), #ccfbf1);
     font-family: sans-serif;
     line-height: 1.5;
 }
@@ -14,7 +14,7 @@ body h2 {
 H2 { 
     text-align: center;
     border-radius: 15px 50px;
-    background: rgb(68, 195, 191);
+    background: #44c3bf;
     padding: 20px; 
     width: 180px;
     height: 100px; 
@@ -24,7 +24,7 @@ H2 {
     text-align: center;
     text-transform: uppercase;
     font-family: sans-serif;
-    color: rgb(15, 16, 16);
+    color: #0f1010;
     margin-top: 2rem;
     flex-wrap: wrap;
 }
@@ -89,10 +89,8 @@ nav a:hoover {
 fieldset {
     border-style:dashed;
     flex-wrap: wrap;
-}
-
-.flex{
-width: 50%;
+    display: flex;
+    margin: auto;
 }
 
 .flex-1 {
@@ -122,6 +120,7 @@ table, th, td {
 
 .weaning-table{
     padding-top: 10rem;
+    align-items: center;
 }
 .weaning-table table, th, td{
     border-collapse: collapse; border-radius: 1rem;
@@ -132,9 +131,15 @@ table, th, td {
     padding-right: 1rem;
 }
 
+.weaning-plan-1 {
+    align-items: center;
+}
+
 .teething{
     height: 250px;
 }
+
+
 /*IMG CLASS*/
 
 
@@ -185,14 +190,29 @@ footer {
     text-transform: uppercase;
 }
 
-.links {
-    color: black;
-    text-decoration: none;
-    font-size: 1rem;
-    margin: 3REM;
-    justify-content: space-between;
-
+#social-networks {
+    text-align: center;
+    display: flex;
+    justify-content:space-between;
 }
+.links{
+padding: 1rem;
+}
+
+.fa-facebook:before {
+    content: "\f09a";
+    margin: 1rem;
+}
+
+.fa-instagram:before {
+    content: "\f16d";
+    margin: 1rem;
+}
+.fa-twitter:before {
+content: "\f099";
+margin: 1rem;
+}
+
 
 /*FEEDBACK & THANK YOU PAGE*/
 
@@ -211,6 +231,22 @@ form{
     flex-wrap: wrap;
 }
 
+.feedback_1 {
+    align-items: center;
+    display: flex;
+}
+
+.login{
+    align-items: center;
+}
+form.login {
+    text-align: center;
+    align-content: center;
+    margin-left: 22rem;
+    padding-bottom: 1rem;
+}
+/*MEDIA*/
+
 @media screen and (max-width: 662px)
 {
     /*HEADER*/
@@ -224,6 +260,7 @@ form{
     }
     .header_logo {
     padding-bottom: 50px;
+    margin: auto;
     }
 
     /*FROM ONNE MONTH TO TWO*/
@@ -232,6 +269,38 @@ form{
         width: 300px;
         height: 300px;
     }
-
+.flex-1{
+    flex-direction: column;
+}
 
 }
+
+@media screen and (max-width: 1000px)
+     
+{
+    
+        .header {
+           flex-direction: column;
+        }
+    
+    
+        .ready {
+            flex-direction: row;
+        }
+
+        .flex-1 {
+            flex-direction: column;
+        }
+    
+        .img4 {
+            align-items: center;
+        }
+}
+
+@media screen and (max-width: 1050px)
+{ 
+   form.login {
+         margin-left: 11rem;
+    }
+}
+
