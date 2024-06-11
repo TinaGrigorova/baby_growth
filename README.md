@@ -16,7 +16,7 @@ Starting from birth to six monts. Covering different topics, giving examples, an
     * Find the Feedback form and submit.
       
  * Returning visitor goals
-    * Find out information about the  .
+    * Find out information about growth of the baby.
     * Locate the feedback form at the end of the page.
     * Review stories and more information on social media.
 
@@ -25,16 +25,23 @@ Starting from birth to six monts. Covering different topics, giving examples, an
     * Review the page for new information.
       
    
-## FEATURES
+## FEATURES 
+* Baby growth web page is dedicated to support new and existing mums that are looking for more information on how the beby is developing.
+* Readers can navigate easy on the page by choosing the option on the navigation bar.
+* Responsive on all devices.
+  
 
 ### NAVIGATION BAR
-<img width="1412" alt="Screenshot 2024-06-10 at 14 27 46" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/8027cff9-9de9-4d25-b9e3-0262169e4678">
+<img width="748" alt="Screenshot 2024-06-11 at 08 38 34" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/6c733b80-f150-49c3-9a3e-a75bdbf55ea1">
 
 ### HEADING
+<img width="620" alt="Screenshot 2024-06-11 at 08 38 56" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/cb939fb9-2981-4954-b692-fa55c8beba65">
 
 ### FOOTER
+<img width="732" alt="Screenshot 2024-06-11 at 08 39 07" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/1fd9cca4-b862-4a68-ae68-13ff2edbf893">
 
 ### FEEDBACK 
+<img width="1416" alt="Screenshot 2024-06-11 at 08 47 42" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/856e8b04-29de-4693-a378-8d661b568c9d">
 
 ### EXAMPLES
 
