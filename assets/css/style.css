@@ -193,6 +193,8 @@ footer {
     text-transform: uppercase;
 }
 
+/*SOCIAL NETWORKING*/
+
 #social-networks {
     text-align: center;
     display: flex;
@@ -234,7 +236,9 @@ form{
     flex-wrap: wrap;
 }
 .feeding-table {
-    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
 .feedback_1 {
     align-items: center;
