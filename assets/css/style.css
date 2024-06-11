@@ -230,7 +230,9 @@ form{
 .feedback{
     flex-wrap: wrap;
 }
-
+.feeding-table {
+    align-items: center;
+}
 .feedback_1 {
     align-items: center;
     display: flex;
@@ -245,6 +247,7 @@ form.login {
     margin-left: 22rem;
     padding-bottom: 1rem;
 }
+
 /*MEDIA*/
 
 @media screen and (max-width: 662px)
@@ -303,4 +306,3 @@ form.login {
          margin-left: 11rem;
     }
 }
-
