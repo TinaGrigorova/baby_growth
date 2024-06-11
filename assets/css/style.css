@@ -153,6 +153,7 @@ flex-direction: row;
 div#weaning {
     justify-content: center;
     width: 100%;
+    gap: 5rem;
 }
 
 /*IMG CLASS*/
@@ -262,8 +263,9 @@ form{
 }
 form.login {
     text-align: center;
-    align-content: center;
     padding-bottom: 1rem;
+    justify-content: center;
+    width: 100%;
 }
 
 /*MEDIA*/
@@ -328,3 +330,20 @@ form.login {
     }
 
 }
+@media screen and (min-width: 1470px)
+ {
+    div#weaning {
+        justify-content: center;
+        width: 100%;
+        gap: 10rem;
+    }
+ }
+
+ @media screen and (max-width: 1470px)
+ {
+    div#weaning {
+        justify-content: center;
+        width: 100%;
+        gap: 2rem;
+    }
+ }
