@@ -139,6 +139,9 @@ table, th, td {
     height: 250px;
 }
 
+.ready{
+flex-direction: row;
+}
 
 /*IMG CLASS*/
 
@@ -297,6 +300,9 @@ form.login {
         .img4 {
             align-items: center;
         }
+        .ready{
+            flex-direction: column;
+            }
 }
 
 @media screen and (max-width: 1050px)
@@ -304,4 +310,5 @@ form.login {
    form.login {
          margin-left: 11rem;
     }
+
 }
