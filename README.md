@@ -7,7 +7,7 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 * [BABY'S GROWTH](https://tinagrigorova.github.io/baby_growth/)
 
-
+--- 
 ## USER EXPERIANCE (UX)
 ### USER STORIES
 
@@ -25,7 +25,7 @@ Starting from birth to six monts. Covering different topics, giving examples, an
     * Request more information or examples to be added via feedback form. 
     * Review the page for new information.
       
-   
+   --- 
 ## FEATURES 
 * Baby growth web page is dedicated to support new and existing mums that are looking for more information on how the beby is developing.
 * Readers can navigate easy on the page by choosing the option on the navigation bar.
@@ -70,16 +70,15 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 <img width="732" alt="Screenshot 2024-06-11 at 08 39 07" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/1fd9cca4-b862-4a68-ae68-13ff2edbf893">
 
-
-### EXAMPLES
-
 ## DESIGN
 
 ### COLORS
+
 #### PRIMARY COLORS UDES:
 
 <img width="421" alt="Screenshot 2024-06-10 at 14 35 30" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/20f0e2d7-0d1c-4a7a-b7c9-38a71abd4515"> 
 
+--- 
 ## FEATURES LEFT TO IMPLEMENT
 
 * Мore information and sections to be added to the web page.
@@ -89,7 +88,7 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 ### IMAGERY
 
-
+---
 ## USED TECHNOLOGIES
 
  * [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -125,19 +124,19 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ### FIXED BUGS 
 
 * On section - One to two monts - the text paragraph was not alihning well with the picture as property if "width -50%" has been added to the div. It has been removed and now is fixed. 
-
+---
 ## DEPLOYMENT
 
 ### GITHUB PAGES
 
 * The site was deployed to GitHub pages.
 
-1.Log in to GitHub and locate Github Repository [Baby Growth](https://github.com/TinaGrigorova/baby_growth.git)
-2.At the top of the Repository(not the main navigation) locate "Settings" button on the menu.
-3.Scroll down the Settings page until you locate "GitHub Pages".
-4.Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
-5.The page will automatically refresh.
-6.Scroll back to locate the now-published site link in the "GitHub Pages" section.
+ * Log in to GitHub and locate Github Repository [Baby Growth](https://github.com/TinaGrigorova/baby_growth.git)
+ * At the top of the Repository(not the main navigation) locate "Settings" button on the menu.
+ * Scroll down the Settings page until you locate "GitHub Pages".
+ * Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
+ * The page will automatically refresh.
+ * Scroll back to locate the now-published site link in the "GitHub Pages" section.
 
 ### FORKING THE GITHUB REPOSOTORY
 
@@ -151,6 +150,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 ### MAKING A LOCAL CLONE
 
+--- 
 ## CREDITS
 
 ### CODE
