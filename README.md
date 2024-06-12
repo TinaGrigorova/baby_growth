@@ -1,11 +1,12 @@
 # BABY'S GROWTH 
 
 * Baby's Growth page is dedicated to support new mums with loads of questions about their little one. 
-Starting from birth to six monts. Covering different topics, giving examples, and ending with feedback part so the readers can sumbit their opinion, which could be reuest for additional information to be added or simply just giving review for the page. 
+Starting from birth to six monts. Covering different topics, giving examples, and ending with feedback part so the readers can sumbit their opinion, which could be request even  just for additional information to be added, or simply giving a review for the page.
  
-/Types of visual /
+<img width="1021" alt="Screenshot 2024-06-11 at 18 06 46" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/6adedee1-da51-4cfb-b27c-e0d067e34f0d">
 
-/Link to page/
+* [BABY'S GROWTH](https://tinagrigorova.github.io/baby_growth/)
+
 
 ## USER EXPERIANCE (UX)
 ### USER STORIES
@@ -64,7 +65,9 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 <img width="1415" alt="Screenshot 2024-06-11 at 15 06 32" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/4dcb1235-6b7c-432c-b1f6-200f5d682b53">
 
 ### FOOTER
-* Footer includes links to social media
+* Footer includes links to social media websites, which open in new tab when clicked.
+* The footer helps the users to stay tuned in social media for updates on the webpage.
+
 <img width="732" alt="Screenshot 2024-06-11 at 08 39 07" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/1fd9cca4-b862-4a68-ae68-13ff2edbf893">
 
 
@@ -72,20 +75,19 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 ## DESIGN
 
+### COLORS
+#### PRIMARY COLORS UDES:
+
+<img width="421" alt="Screenshot 2024-06-10 at 14 35 30" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/20f0e2d7-0d1c-4a7a-b7c9-38a71abd4515"> 
+
 ## FEATURES LEFT TO IMPLEMENT
 
 * Мore information and sections to be added to the web page.
 * To be added one more page which will include information about baby growth from six months to oen year.
 
-
-
-### COLORS
-<img width="421" alt="Screenshot 2024-06-10 at 14 35 30" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/20f0e2d7-0d1c-4a7a-b7c9-38a71abd4515"> 
-
 ### TYPOGRAPHY
 
 ### IMAGERY
-
 
 
 ## USED TECHNOLOGIES
@@ -95,6 +97,17 @@ Starting from birth to six monts. Covering different topics, giving examples, an
    
 ## FRAMEWORKS, PROGRAMS AND LIBRARYS USED 
 
+ * [VS Desktop](https://code.visualstudio.com)
+    * To write the code in the beginng. 
+ * [Github](https://github.com/)
+    * To write and update the code.
+ * [Git](https://git-scm.com/)
+    * for vesion control.
+ * [Github](https://github.com/)
+    * Deployment of the website and storing the files online.
+* [Am I Responsive](https://ui.dev/amiresponsive)
+    * Mockup picture for the README file.
+---
 
 ## Testing
 
@@ -115,6 +128,8 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 ## DEPLOYMENT
 
+
+
 ### GITHUB PAGES
 
 ### FORKING THE GITHUB REPO
@@ -125,9 +140,20 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 ### CODE
 
+* Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
+  
 ### CONTENT
 
-### MEDIA
+* All content was written by the developer.
+* [Color contrast checker](https://coolors.co/contrast-checker/000000-44c3bf) was used to decide which colors would be used for the website.
+
+### MEDIA 
+
+* As the website does not include "gallery" page the following links were used for the few photos :
+  * 
+
+
 
 ### ACKNOWLEDGEMENTS
 
