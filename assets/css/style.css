@@ -298,19 +298,26 @@ form.login {
 .flex-1{
     flex-direction: column;
 }
-
+ 
+.flex-6 {
+    width: 95%;
+    justify-content: center;
+    display: flex;
 }
 
+  div#weanin {
+    width: 300px;
+  } 
+
+}
 @media screen and (max-width: 700px)
 {
     .textarea {
         width: 150px;
     }
 }
-
-
     
-        .header {
+    .header {
            flex-direction: column;
         }
     
@@ -341,6 +348,7 @@ form.login {
         justify-content: center;
         width: 100%;
         gap: 10rem;
+    
     }
  }
 
@@ -350,5 +358,7 @@ form.login {
         justify-content: center;
         width: 100%;
         gap: 2rem;
+        margin: 0;
+        padding: 0.5rem;
     }
  }
