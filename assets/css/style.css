@@ -267,7 +267,10 @@ form.login {
     justify-content: center;
     width: 100%;
 }
-
+.textarea{
+    text-align: center;
+    }
+    
 /*MEDIA*/
 
 @media screen and (max-width: 662px)
@@ -298,9 +301,14 @@ form.login {
 
 }
 
-@media screen and (max-width: 1000px)
-     
+@media screen and (max-width: 700px)
 {
+    .textarea {
+        width: 150px;
+    }
+}
+
+
     
         .header {
            flex-direction: column;
@@ -311,6 +319,10 @@ form.login {
             flex-direction: row;
         }
 
+        .baby-teeth {
+            flex-direction: column;
+            display: flex;
+        }
         .flex-1 {
             flex-direction: column;
         }
@@ -323,13 +335,6 @@ form.login {
             }
 }
 
-@media screen and (max-width: 1050px)
-{ 
-   form.login {
-         margin-left: 11rem;
-    }
-
-}
 @media screen and (min-width: 1470px)
  {
     div#weaning {
