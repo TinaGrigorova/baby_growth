@@ -271,7 +271,9 @@ form.login {
     text-align: center;
     }
     
-/*MEDIA*/
+/*MEDIA QUERIES*/
+
+/*----MAX- WIDTH 662px----*/
 
 @media screen and (max-width: 662px)
 {
@@ -295,6 +297,10 @@ form.login {
         width: 300px;
         height: 300px;
     }
+    .img3{
+        width: 300px;
+    }
+
 .flex-1{
     flex-direction: column;
 }
@@ -310,13 +316,24 @@ form.login {
   } 
 
 }
+
+/*----MAX- WIDTH 700px----*/
+
 @media screen and (max-width: 700px)
 {
     .textarea {
         width: 150px;
     }
+
+    .feeding_table{
+        padding: 0;
+    }
 }
-    
+
+/*----MAX- WIDTH 1000px----*/
+
+@media screen and (max-width: 1000px)
+{
     .header {
            flex-direction: column;
         }
@@ -342,17 +359,9 @@ form.login {
             }
 }
 
-@media screen and (min-width: 1470px)
- {
-    div#weaning {
-        justify-content: center;
-        width: 100%;
-        gap: 10rem;
-    
-    }
- }
+/*----MAX- WIDTH 1470----px*/
 
- @media screen and (max-width: 1470px)
+@media screen and (max-width: 1470px)
  {
     div#weaning {
         justify-content: center;
@@ -360,5 +369,16 @@ form.login {
         gap: 2rem;
         margin: 0;
         padding: 0.5rem;
+    }
+ }
+ 
+ /*----MIN- WIDTH 1470----px*/
+@media screen and (min-width: 1470px)
+ {
+    div#weaning {
+        justify-content: center;
+        width: 100%;
+        gap: 10rem;
+    
     }
  }
