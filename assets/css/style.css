@@ -51,7 +51,7 @@ H2 {
     display: flex;
     padding: 0.5px;
     margin: 0;
-    gap: 3rem;
+    gap: 1.8rem;
     color:rgb(10, 9, 9);
     flex-wrap: wrap;
 
@@ -329,7 +329,14 @@ form.login {
         padding: 0;
     }
 }
-
+@media screen and (max-width: 800px)
+{
+    
+        .header_logo{
+margin: 1rem;
+        }
+    
+}
 /*----MAX- WIDTH 1000px----*/
 
 @media screen and (max-width: 1000px)
