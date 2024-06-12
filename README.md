@@ -3,7 +3,7 @@
 * Baby's Growth page is dedicated to support new mums with loads of questions about their little one. 
 Starting from birth to six monts. Covering different topics, giving examples, and ending with feedback part so the readers can sumbit their opinion, which could be request even  just for additional information to be added, or simply giving a review for the page.
  
-<img width="1021" alt="Screenshot 2024-06-11 at 18 06 46" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/6adedee1-da51-4cfb-b27c-e0d067e34f0d">
+<img width="1075" alt="Screenshot 2024-06-12 at 22 09 16" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/96f5f9f6-3e6e-416a-be5b-28ba396fcfda">
 
 * [BABY'S GROWTH](https://tinagrigorova.github.io/baby_growth/)
 
@@ -116,8 +116,20 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ### RESULTS
+ * After validating and checking the code with [W3C Markup Validtor](https://validator.w3.org/) the results were positive and no errors or warnigns were fould in HTML code.
+   * <img width="468" alt="Screenshot 2024-06-12 at 22 38 47" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/52879f90-95d7-44bb-a58b-a96cfdc021ff">
+
+
+ * After validating and checking the code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) the results were positive and no errors were fould in the CSS code.
+   * <img width="376" alt="Screenshot 2024-06-12 at 22 39 55" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/cf07c7c0-33b5-490f-bddd-9e81e02e303f">
 
 ### MANUAL TESTING
+
+ * The website was tested on Safari and Microsoft Edge.
+ * The website was viewed on a desktop computer, laptop, and Iphone 14 Pro Max mobile phone.
+ * Large amount of testing was done to ensure links between pages are working correctly on all pages.
+ * Dev Tools was used to test how the site looks on various screen sizes.
+
 
 ### LIGHTOHOUSE REPORTS 
 
