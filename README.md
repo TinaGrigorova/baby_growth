@@ -128,11 +128,26 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 ## DEPLOYMENT
 
-
-
 ### GITHUB PAGES
 
-### FORKING THE GITHUB REPO
+* The site was deployed to GitHub pages.
+
+1.Log in to GitHub and locate Github Repository [Baby Growth](https://github.com/TinaGrigorova/baby_growth.git)
+2.At the top of the Repository(not the main navigation) locate "Settings" button on the menu.
+3.Scroll down the Settings page until you locate "GitHub Pages".
+4.Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
+5.The page will automatically refresh.
+6.Scroll back to locate the now-published site link in the "GitHub Pages" section.
+
+### FORKING THE GITHUB REPOSOTORY
+
+* By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
+
+1.
+2.
+3.
+
+
 
 ### MAKING A LOCAL CLONE
 
@@ -151,7 +166,10 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ### MEDIA 
 
 * As the website does not include "gallery" page the following links were used for the few photos :
-  * 
+  * [Baby Feeding](https://www.parents.com/baby/feeding/baby-feeding-chart-how-much-and-when-to-feed-infants-the-first-year/)
+  * [Baby's Developement](https://www.istockphoto.com/photos/baby-development)
+  * [Baby Teeth Chart](https://www.template.net/business/charts/sample-baby-teeth-growth-chart/)
+  * [Backgroung Img](https://hypercolor.dev/)
 
 
 
