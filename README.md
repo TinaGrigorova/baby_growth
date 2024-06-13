@@ -150,18 +150,6 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
  * The page will automatically refresh.
  * Scroll back to locate the now-published site link in the "GitHub Pages" section.
 
-### FORKING THE GITHUB REPOSOTORY
-
-* By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
-
-1.
-2.
-3.
-
-
-
-### MAKING A LOCAL CLONE
-
 --- 
 ## CREDITS
 
