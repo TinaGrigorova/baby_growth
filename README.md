@@ -130,8 +130,6 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
  * Dev Tools was used to test how the site looks on various screen sizes.
 
 
-### LIGHTOHOUSE REPORTS 
-
 ### FIXED BUGS 
 
 * On section - One to two monts - the text paragraph was not alihning well with the picture as property of "width - 50%" has been added to the div. But it has been removed and now is fixed.
@@ -139,7 +137,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ---
 ## DEPLOYMENT
 
-### GITHUB PAGES
+### GITHUB
 
 * The site was deployed to GitHub pages.
 
