@@ -116,6 +116,7 @@ table, th, td {
     justify-content: space-between;
     margin: 5rem;
     flex-wrap: wrap;
+    max-width: 1600px;
 }
 
 .weaning-table{
