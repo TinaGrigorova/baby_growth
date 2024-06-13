@@ -82,11 +82,10 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 ## FEATURES LEFT TO IMPLEMENT
 
 * Мore information and sections to be added to the web page.
-* To be added one more page which will include information about baby growth from six months to oen year.
+* To be added one more page which will include information about baby growth from six months to one year.
 
 ### TYPOGRAPHY
-
-### IMAGERY
+* Sans-Serif is the main font used in th website.
 
 ---
 ## USED TECHNOLOGIES
@@ -135,7 +134,8 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 ### FIXED BUGS 
 
-* On section - One to two monts - the text paragraph was not alihning well with the picture as property if "width -50%" has been added to the div. It has been removed and now is fixed. 
+* On section - One to two monts - the text paragraph was not alihning well with the picture as property of "width - 50%" has been added to the div. But it has been removed and now is fixed.
+* 
 ---
 ## DEPLOYMENT
 
