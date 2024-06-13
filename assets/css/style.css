@@ -292,12 +292,13 @@ form.login {
 
     .header {
         flex-direction: column;
+        padding-block: 0;
     }
     .header_ul {
         flex-wrap: wrap;
     }
     .header_logo {
-    padding-bottom: 50px;
+    padding-bottom: 10px;
     margin: auto;
     }
 
@@ -306,8 +307,8 @@ form.login {
         width: 250px;
     }
     .img4{
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
     }
     .img3{
         width: 250px;
@@ -318,7 +319,7 @@ form.login {
 }
  
 .flex-6 {
-    width: 95%;
+    width: 90%;
     justify-content: center;
     display: flex;
 }
@@ -335,6 +336,7 @@ form.login {
     border-collapse: collapse;
     padding: 0.3rem;
   }
+
 }
 
 /*----MAX- WIDTH 700px----*/
