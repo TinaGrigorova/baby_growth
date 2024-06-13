@@ -292,7 +292,7 @@ form.login {
 
     .header {
         flex-direction: column;
-        padding-block: 0;
+        padding-block: 10px;
     }
     .header_ul {
         flex-wrap: wrap;
