@@ -409,3 +409,17 @@ margin: 1rem;
             gap: 5rem;
          }
         }
+
+@media screen and (min-width: 1000px)
+{
+    .img3{
+        margin-left: 10rem;
+    }
+}
+
+@media screen and (max-width: 830px)
+{
+    .img3{
+        margin-left: 10rem;
+    }
+}
