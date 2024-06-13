@@ -302,13 +302,15 @@ form.login {
     }
 
     /*FROM ONE MONTH TO TWO*/
-    
+    .img1{
+        width: 250px;
+    }
     .img4{
         width: 300px;
         height: 300px;
     }
     .img3{
-        width: 300px;
+        width: 250px;
     }
 
 .flex-1{
@@ -325,6 +327,14 @@ form.login {
     width: 300px;
   } 
 
+  table{
+    font-size: 12px;
+  }
+  
+  .weaning-table table, th, td{
+    border-collapse: collapse;
+    padding: 0.3rem;
+  }
 }
 
 /*----MAX- WIDTH 700px----*/
@@ -400,7 +410,7 @@ margin: 1rem;
     div#weaning {
         justify-content: center;
         width: 100%;
-        gap: 10rem;
+        gap: 5rem;
     
     }
  }
