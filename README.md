@@ -117,7 +117,7 @@ Starting from birth to six months. Covering different topics, giving examples, a
 
 ### Features left to implement
 
-* More information and sections to be added to the web page.
+* More informattion and sections to be added to the web page.
 * To be added one more page which will include information about baby growth from six months to one year.
 
 ### Typography
@@ -136,7 +136,7 @@ Starting from birth to six months. Covering different topics, giving examples, a
  * [Github](https://github.com/)
     * To write and update the code.
  * [Git](https://git-scm.com/)
-    * for vision control.
+    * for vission control.
  * [Github](https://github.com/)
     * Deployment of the website and storing the files online.
 * [Am I Responsive](https://ui.dev/amiresponsive)
@@ -208,7 +208,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 ### Code
 
 * Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
+* The README template was helpfuly provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
   
 ### Content
 
