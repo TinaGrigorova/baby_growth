@@ -64,12 +64,32 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 <img alt="baby-feeding" src="assets/Images/images-readme/Feeding .png">
 
 #### Growing
+
+* Covers the growth of the baby from 3 to 6 months.
+* This section aims to give more information on babies development durin the second trimester after the birth.
+* Inlcudes information on babies sleep habbits, gum massages , vocal abilities and communication skills.
+  
 <img alt="baby-growing" src="assets/Images/images-readme/Growing .png">
-#### Teething 
+
+#### Teething
+
+* Helps present teething better to the readers.
+* Inlcudes a graphic on how the teeth are growing , which ones are first and which ones follow after.
+* Contains information about babies teeth , how they grow, how they react to the growing teeth and what would be the best option for treatement for temperature.
+  
 <img alt="baby-teething" src="assets/Images/images-readme/Teething.png">
+
 #### Weaning 
+
+* Weaning is realy important for the babies. I has to be followed striclty so the babies dont develope alersies and food intolerance.
+* Contains valuable information for the readers such as clues to look for when the baby is ready for solid food. 
+* Readers can also see some examples of food to start with, when their baby is ready.
+
+
 <img alt="weaning" src="assets/Images/images-readme/Weaning Section .png">
+
 ### Feedback
+
 * Feedback page will allow users to share their opinion and ideas.
 * Users can enter thir email , name and their point of view. 
 * When feedback is submitted it opens new page which confirms to the users that they have submitted their feedback.
@@ -84,6 +104,8 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 * The footer helps the users to stay tuned in social media for updates on the webpage.
 
 <img alt="footer" src="assets/Images/images-readme/Footer.png">
+
+--- 
 
 ## DESIGN
 
@@ -162,6 +184,24 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
  * Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
  * The page will automatically refresh.
  * Scroll back to locate the now-published site link in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
+
+1. Log in to GitHub and locate [GitHub Repository](https://github.com/TinaGrigorova/baby_growth.git)
+2. At the top of the Repository(under the main navigation) locate "Fork" button.
+3. Now you should have a copy of the original repository in your GitHub account.
+
+### Local Clone
+
+1. Log in to GitHub and locate [GitHub Repository](https://github.com/TinaGrigorova/baby_growth.git)
+2. Under the repository name click "Clone or download"
+3. Click on the code button, select clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone` and then paste The URL copied in the step 3.
+7. Press Enter and your local clone will be created.
 
 --- 
 ## CREDITS
