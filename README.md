@@ -26,6 +26,16 @@ Starting from birth to six months. Covering different topics, giving examples, a
     * Review the page for new information.
       
    --- 
+## DESIGN
+
+### Colours
+
+#### Primary colours used:
+
+<img alt="colours" src="assets/Images/images-readme/Used colours.png"> 
+
+--- 
+
 ## FEATURES 
 * Baby growth web page is dedicated to support new and existing mums that are looking for more information on how the baby is developing.
 * Readers can navigate easy on the page by choosing the option on the navigation bar.
@@ -105,17 +115,6 @@ Starting from birth to six months. Covering different topics, giving examples, a
 
 <img alt="footer" src="assets/Images/images-readme/Footer.png">
 
---- 
-
-## DESIGN
-
-### Colours
-
-#### Primary colours used:
-
-<img alt="colours" src="assets/Images/images-readme/Used colours.png"> 
-
---- 
 ### Features left to implement
 
 * More information and sections to be added to the web page.
