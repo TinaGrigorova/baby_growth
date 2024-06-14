@@ -1,7 +1,7 @@
 # BABY'S GROWTH 
 
 * Baby's Growth page is dedicated to support new mums with loads of questions about their little one. 
-Starting from birth to six monts. Covering different topics, giving examples, and ending with feedback part so the readers can sumbit their opinion, which could be request even  just for additional information to be added, or simply giving a review for the page.
+Starting from birth to six months. Covering different topics, giving examples, and ending with feedback part so the readers can submit their opinion, which could be request even just for additional information to be added, or simply giving a review for the page.
  
 <img width="1075" alt="responsiveness" src="assets/Images/images-readme/responsiveness.png">
 
@@ -27,18 +27,18 @@ Starting from birth to six monts. Covering different topics, giving examples, an
       
    --- 
 ## FEATURES 
-* Baby growth web page is dedicated to support new and existing mums that are looking for more information on how the beby is developing.
+* Baby growth web page is dedicated to support new and existing mums that are looking for more information on how the baby is developing.
 * Readers can navigate easy on the page by choosing the option on the navigation bar.
 * Responsive on all devices.
   
 
 ### Navigation bar
- * Navigation bar icludes all four section of the website
+ * Navigation bar includes all four sections of the website
     * From Birth to Three months
     * From Three to Six months
     * Weaning
     * Feedback
- * Made for easy navigation through the sections by choosing on the navigation menu the requred section
+ * Made for easy navigation through the sections by choosing on the navigation menu the required section
  * Easy to read and visualise 
 <img width="748" alt="navigation bar" src="assets/Images/images-readme/Nav Menu.png">
 
@@ -48,9 +48,9 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 <img alt="heading" src="assets/Images/images-readme/Heading .png">
 
-* Intruduction of the webside is positioned just below the heading and the navigation.
+* Introduction of the website is positioned just below the heading and the navigation.
 * It is easy to locate and read.
-* Positioned in the center so the readers can understand easily what the website is about.
+* Positioned in the centre so the readers can understand easily what the website is about.
   
 <img alt="introduction" src="assets/Images/images-readme/Introduction.png">
 
@@ -58,30 +58,30 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 #### Feeding 
 
-* Section - Feeding is designed to support and inform new perants with information how much the baby eats and how frequently.This section is supplied with an example table with average times and amount of feeding the baby.
-* Feeding section includes more information about how the babies are growing during that period of time that includes weight, length , brain development, hearing and more.
+* Section - Feeding is designed to support and inform the readers with information how much the baby eats and how frequently. This section is supplied with an example table with average times and amount of feeding the baby.
+* Feeding section includes more information about how the babies are growing during the period that includes weight, length, brain development, hearing and more.
 
 <img alt="baby-feeding" src="assets/Images/images-readme/Feeding .png">
 
 #### Growing
 
 * Covers the growth of the baby from 3 to 6 months.
-* This section aims to give more information on babies development durin the second trimester after the birth.
-* Inlcudes information on babies sleep habbits, gum massages , vocal abilities and communication skills.
+* This section aims to give more information on babies’ development during the second trimester after the birth.
+* Includes information on babies sleep habits, gum massages, vocal abilities and communication skills.
   
 <img alt="baby-growing" src="assets/Images/images-readme/Growing .png">
 
 #### Teething
 
 * Helps present teething better to the readers.
-* Inlcudes a graphic on how the teeth are growing , which ones are first and which ones follow after.
-* Contains information about babies teeth , how they grow, how they react to the growing teeth and what would be the best option for treatement for temperature.
+* Includes a graphic on how the teeth are growing, which ones are first and which ones follow.
+* Contains information about babies’ teeth, how they grow, how they react to the growing teeth and what would be the best option for treatment for temperature.
   
 <img alt="baby-teething" src="assets/Images/images-readme/Teething.png">
 
 #### Weaning 
 
-* Weaning is realy important for the babies. I has to be followed striclty so the babies dont develope alersies and food intolerance.
+* Weaning is important for the babies. I must be followed strictly so the babies don’t develop allergies and food intolerance.
 * Contains valuable information for the readers such as clues to look for when the baby is ready for solid food. 
 * Readers can also see some examples of food to start with, when their baby is ready.
 
@@ -91,7 +91,7 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 ### Feedback
 
 * Feedback page will allow users to share their opinion and ideas.
-* Users can enter thir email , name and their point of view. 
+* Users can enter their email, name and their point of view. 
 * When feedback is submitted it opens new page which confirms to the users that they have submitted their feedback.
 * Thank-you page includes the heading and navigation menu of the website. 
 
@@ -109,20 +109,20 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 ## DESIGN
 
-### Colors
+### Colours
 
-#### Primary colors used:
+#### Primary colours used:
 
-<img alt="colors" src="assets/Images/images-readme/Used colors .png"> 
+<img alt="colours" src="assets/Images/images-readme/Used colours.png"> 
 
 --- 
 ### Features left to implement
 
-* Мore information and sections to be added to the web page.
+* More information and sections to be added to the web page.
 * To be added one more page which will include information about baby growth from six months to one year.
 
 ### Typography
-* Sans-Serif is the main font used in th website.
+* Sans-Serif is the main font used in the website.
 
 ---
 ## USED TECHNOLOGIES
@@ -133,11 +133,11 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 ## FRAMEWORKS, PROGRAMS AND LIBRARYS USED 
 
  * [VS Desktop](https://code.visualstudio.com)
-    * To write the code in the beginng. 
+    * To write the code in the begging. 
  * [Github](https://github.com/)
     * To write and update the code.
  * [Git](https://git-scm.com/)
-    * for vesion control.
+    * for vision control.
  * [Github](https://github.com/)
     * Deployment of the website and storing the files online.
 * [Am I Responsive](https://ui.dev/amiresponsive)
@@ -148,15 +148,15 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 
 The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
 
- * [W3C Markup Validtor](https://validator.w3.org/)
+ * [W3C Markup Validator](https://validator.w3.org/)
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ### Results
- * After validating and checking the code with [W3C Markup Validtor](https://validator.w3.org/) the results were positive and no errors or warnigns were fould in HTML code.
+ * After validating and checking the code with [W3C Markup Validator](https://validator.w3.org/) the results were positive and no errors or warnings were found in HTML code.
    * <img alt="html-testing" src="assets/Images/images-readme/html code validation.png">
 
 
- * After validating and checking the code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) the results were positive and no errors were fould in the CSS code.
+ * After validating and checking the code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) the results were positive and no errors were found in the CSS code.
    * <img alt="css-testing" src="assets/Images/images-readme/css code validation.png">
 
 ### Manual testing
