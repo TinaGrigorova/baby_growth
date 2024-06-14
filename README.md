@@ -3,13 +3,13 @@
 * Baby's Growth page is dedicated to support new mums with loads of questions about their little one. 
 Starting from birth to six monts. Covering different topics, giving examples, and ending with feedback part so the readers can sumbit their opinion, which could be request even  just for additional information to be added, or simply giving a review for the page.
  
-<img width="1075" alt="Screenshot 2024-06-12 at 22 09 16" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/96f5f9f6-3e6e-416a-be5b-28ba396fcfda">
+<img width="1075" alt="responsiveness" src="assets/Images/images-readme/responsiveness.png">
 
-* [BABY'S GROWTH](https://tinagrigorova.github.io/baby_growth/)
+* [Link to my website](https://tinagrigorova.github.io/baby_growth/)
 
 --- 
 ## USER EXPERIANCE (UX)
-### USER STORIES
+### User stories
 
  * First-time visitor goals
     * Understand the main purpose of the site and acquire more knowledge about the topic.
@@ -32,7 +32,7 @@ Starting from birth to six monts. Covering different topics, giving examples, an
 * Responsive on all devices.
   
 
-### NAVIGATION BAR
+### Navigation bar
  * Navigation bar icludes all four section of the website
     * From Birth to Three months
     * From Three to Six months
@@ -40,51 +40,66 @@ Starting from birth to six monts. Covering different topics, giving examples, an
     * Feedback
  * Made for easy navigation through the sections by choosing on the navigation menu the requred section
  * Easy to read and visualise 
-<img width="748" alt="Screenshot 2024-06-11 at 08 38 34" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/6c733b80-f150-49c3-9a3e-a75bdbf55ea1">
+<img width="748" alt="navigation bar" src="assets/Images/images-readme/Nav Menu.png">
 
-### HEADING
+### Heading
 * Heading is visible and readable
 * Positioned on the left side of the header to give more space for the navigation menu.
 
-<img width="620" alt="Screenshot 2024-06-11 at 08 38 56" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/cb939fb9-2981-4954-b692-fa55c8beba65">
+<img alt="heading" src="assets/Images/images-readme/Heading .png">
 
 * Intruduction of the webside is positioned just below the heading and the navigation.
 * It is easy to locate and read.
 * Positioned in the center so the readers can understand easily what the website is about.
   
-<img width="1414" alt="Screenshot 2024-06-11 at 14 58 44" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/1c52c4f4-e32e-4178-a233-a3fea9753705">
+<img alt="introduction" src="assets/Images/images-readme/Introduction.png">
 
-### FEEDBACK 
+### Content 
+
+#### Feeding 
+
+* Section - Feeding is designed to support and inform new perants with information how much the baby eats and how frequently.This section is supplied with an example table with average times and amount of feeding the baby.
+* Feeding section includes more information about how the babies are growing during that period of time that includes weight, length , brain development, hearing and more.
+
+<img alt="baby-feeding" src="assets/Images/images-readme/Feeding .png">
+
+#### Growing
+<img alt="baby-growing" src="assets/Images/images-readme/Growing .png">
+#### Teething 
+<img alt="baby-teething" src="assets/Images/images-readme/Teething.png">
+#### Weaning 
+<img alt="weaning" src="assets/Images/images-readme/Weaning Section .png">
+### Feedback
 * Feedback page will allow users to share their opinion and ideas.
 * Users can enter thir email , name and their point of view. 
 * When feedback is submitted it opens new page which confirms to the users that they have submitted their feedback.
 * Thank-you page includes the heading and navigation menu of the website. 
 
-<img width="1416" alt="Screenshot 2024-06-11 at 08 47 42" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/856e8b04-29de-4693-a378-8d661b568c9d">
+<img alt="feedback" src="assets/Images/images-readme/Feedback.png">
 
-<img width="1415" alt="Screenshot 2024-06-11 at 15 06 32" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/4dcb1235-6b7c-432c-b1f6-200f5d682b53">
+<img alt="thank-you" src="assets/Images/images-readme/thank-you-page.png">
 
-### FOOTER
+### Footer
 * Footer includes links to social media websites, which open in new tab when clicked.
 * The footer helps the users to stay tuned in social media for updates on the webpage.
 
-<img width="732" alt="Screenshot 2024-06-11 at 08 39 07" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/1fd9cca4-b862-4a68-ae68-13ff2edbf893">
+<img alt="footer" src="assets/Images/images-readme/Footer.png">
 
 ## DESIGN
 
-### COLORS
+### Colors
 
-#### PRIMARY COLORS UDES:
+#### Primary colors used:
 
-<img width="421" alt="Screenshot 2024-06-10 at 14 35 30" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/20f0e2d7-0d1c-4a7a-b7c9-38a71abd4515"> 
+<img alt="colors" src="assets/Images/images-readme/Used colors .png"> 
 
 --- 
-## FEATURES LEFT TO IMPLEMENT
+### Features left to implement
 
 * Мore information and sections to be added to the web page.
 * To be added one more page which will include information about baby growth from six months to one year.
 
-### TYPOGRAPHY
+### Typography
 * Sans-Serif is the main font used in th website.
 
 ---
@@ -107,22 +122,22 @@ Starting from birth to six monts. Covering different topics, giving examples, an
     * Mockup picture for the README file.
 ---
 
-## Testing
+## TESTING
 
 The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
 
  * [W3C Markup Validtor](https://validator.w3.org/)
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-### RESULTS
+### Results
  * After validating and checking the code with [W3C Markup Validtor](https://validator.w3.org/) the results were positive and no errors or warnigns were fould in HTML code.
-   * <img width="468" alt="Screenshot 2024-06-12 at 22 38 47" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/52879f90-95d7-44bb-a58b-a96cfdc021ff">
+   * <img alt="html-testing" src="assets/Images/images-readme/html code validation.png">
 
 
  * After validating and checking the code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) the results were positive and no errors were fould in the CSS code.
-   * <img width="376" alt="Screenshot 2024-06-12 at 22 39 55" src="https://github.com/TinaGrigorova/baby_growth/assets/171365556/cf07c7c0-33b5-490f-bddd-9e81e02e303f">
+   * <img alt="css-testing" src="assets/Images/images-readme/css code validation.png">
 
-### MANUAL TESTING
+### Manual testing
 
  * The website was tested on Safari and Microsoft Edge.
  * The website was viewed on a desktop computer, laptop, and Iphone 14 Pro Max mobile phone.
@@ -130,14 +145,14 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
  * Dev Tools was used to test how the site looks on various screen sizes.
 
 
-### FIXED BUGS 
+### Fixed bugs
 
 * On section - One to two monts - the text paragraph was not alihning well with the picture as property of "width - 50%" has been added to the div. But it has been removed and now is fixed.
-* 
----
-## DEPLOYMENT
 
-### GITHUB
+---
+## DEPLOYMENT AND LOCAL DEVELOPMENT
+
+### GitHub
 
 * The site was deployed to GitHub pages.
 
@@ -151,17 +166,17 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 --- 
 ## CREDITS
 
-### CODE
+### Code
 
 * Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
   
-### CONTENT
+### Content
 
 * All content was written by the developer.
 * [Color contrast checker](https://coolors.co/contrast-checker/000000-44c3bf) was used to decide which colors would be used for the website.
 
-### MEDIA 
+### Media
 
 * As the website does not include "gallery" page the following links were used for the few photos :
   * [Baby Feeding](https://www.parents.com/baby/feeding/baby-feeding-chart-how-much-and-when-to-feed-infants-the-first-year/)
@@ -171,7 +186,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 
 
-### ACKNOWLEDGEMENTS
+### Acknowledgements
 
  * My mentor Mitko Bachvarov provided realy helpful feedback and a links to Flexbox gude for my portfolio.
  * Slack community for encouragement, information and support from the students.
