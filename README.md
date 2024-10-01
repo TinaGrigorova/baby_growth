@@ -151,9 +151,11 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ### Results
- * After validating and checking the code with [W3C Markup Validator](https://validator.w3.org/) the results were positive and no errors or warnings were found in HTML code.
+ * After validating and checking "Main" page with [W3C Markup Validator](https://validator.w3.org/) the results were positive and no errors or warnings were found in HTML code.
    * <img alt="html-testing" src="assets/Images/images-readme/html code validation.png">
 
+ * After validating and checking "Thank you" page with [W3C Markup Validator](https://validator.w3.org/) the results were positive and no errors or warnings were found in HTML code.
+   * <img alt="html-testing" src="assets/Images/images-readme/thank-you-page-validation.png">
 
  * After validating and checking the code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) the results were positive and no errors were found in the CSS code.
    * <img alt="css-testing" src="assets/Images/images-readme/css code validation.png">
